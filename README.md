@@ -12,6 +12,8 @@
 - 📫 You can reach out to me by:
 Email: [email](mailto:aditya1800@outlook.com)
 
+- ⚡ Fun fact: I started to learn my first language at the age of 9.
+
 <!--
 **IceLemon-06/IceLemon-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
