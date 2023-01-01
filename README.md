@@ -1,5 +1,5 @@
 # 💫 About me:
-# Hi there, I'm Aditya~~
+## Hi there, I'm Aditya~~
 <br>
 🔭 I’m currently a school student.
 <br>
