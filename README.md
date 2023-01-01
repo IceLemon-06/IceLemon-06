@@ -1,6 +1,4 @@
-# 💫 About Me:
-Hi there, I'm Aditya~~
-<br>
+# 💫 About Me: Hi there, I'm Aditya~~
 🔭 I’m currently a school student.
 <br>
 <br>🌱 I’m currently learning Ethical Hacking.
